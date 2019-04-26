@@ -1,0 +1,13 @@
+WavyGamer style guide
+
+Font family: 
+Roboto
+
+colors: 
+body: rgb(16, 137, 243)
+nav: rgb(43, 182, 247)
+nav text: white
+
+image:
+src=../lab3/crfJHsMQNztCDN7rrrvHyM.jpg
+alt="Scropion"
